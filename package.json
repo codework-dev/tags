@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/codework-dev/tags#readme",
   "devDependencies": {
+    "@babel/preset-react": "^7.9.4",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
   }
